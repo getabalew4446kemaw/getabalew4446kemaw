@@ -5,16 +5,17 @@
 
 
 
-<h3 style ="color:blue;">I am a passionate <em>full stack developer</em> from ethiopia</h3>
+<h3 style ="color:blue">I am a passionate <em>full stack developer</em> from ethiopia</h3>
 
 
-I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills
-
+<h5>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h5>
+<h6 style="background-color:red; font-style:italic;color:white">
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)
 * 🧠  I'm learning Git
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am secretely spider man
+</h6>
 
 <a href="https://www.github.com/getabalew4446kemaw" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
