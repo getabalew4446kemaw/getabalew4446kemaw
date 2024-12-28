@@ -57,4 +57,4 @@ src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&styl
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/getabalew"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-<p> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<img sr="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"></p>
+<p> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"></p>
