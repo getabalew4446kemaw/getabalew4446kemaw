@@ -9,13 +9,13 @@
 
 
 <h5>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h5>
-<h6 style="background-color:red; font-style:italic;color:white">
+<p style="background-color:red; font-style:italic;color:white">
 * 🌍  I'm based in Ethiopia<br><br>
 * ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)<br><br>
 * 🧠  I'm learning Git<br><br>
 * 🤝  I'm open to collaborating on interesting projects<br><br>
 * ⚡  i am secretely spider man
-</h6>
+</p>
 
 <a href="https://www.github.com/getabalew4446kemaw" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
