@@ -1,4 +1,6 @@
 Hi 👋 My name is Getabalew
+<p > <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"></p>
+
 ==========================
 
 I am a passionate full stack developer from ethiopia
