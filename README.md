@@ -5,7 +5,7 @@
 
 
 
-<h3 style ="color:blue">I am a passionate <em>full stack developer</em> from ethiopia</h3>
+<h3 style ="color:blue">I am a passionate <em style ="color💙">full stack developer</em> from ethiopia</h3>
 
 
 <h5>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h5>
@@ -57,3 +57,4 @@ src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&styl
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/getabalew"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
+<p> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<img sr="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"></p>
