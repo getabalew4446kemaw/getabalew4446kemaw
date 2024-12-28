@@ -1,10 +1,12 @@
-Hi 👋 My name is Getabalew
+<h2> 👏👋👏 Welcome to my github  account 👋👋👏
+  
+  Hi 👋 My name is Getabalew</h2>
 <p > <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"></p>
 
-==========================
 
-I am a passionate full stack developer from ethiopia
-----------------------------------------------------
+
+<h3 style ="color:blue;">I am a passionate <em>full stack developer</em> from ethiopia</h3>
+
 
 I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills
 
