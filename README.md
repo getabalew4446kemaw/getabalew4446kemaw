@@ -10,10 +10,10 @@
 
 <h5>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h5>
 <h6 style="background-color:red; font-style:italic;color:white">
-* 🌍  I'm based in Ethiopia
-* ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)
-* 🧠  I'm learning Git
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  I'm based in Ethiopia<br><br>
+* ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)<br><br>
+* 🧠  I'm learning Git<br><br>
+* 🤝  I'm open to collaborating on interesting projects<br><br>
 * ⚡  i am secretely spider man
 </h6>
 
