@@ -1,7 +1,7 @@
 <h2> 👏👋👏 Welcome to my github  account 👋👋👏
   
   Hi 👋 My name is Getabalew</h2>
-<p  id="man"> <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"width="200" height="100"></p>
+<p  id="man"> <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"width="1000" height="200"></p>
 
 
 
@@ -57,5 +57,5 @@ src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&styl
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/getabalew"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-<p>< <img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"></p>
+<p>< <img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"width="1000" height="200"></p>
 <p> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏</p>
