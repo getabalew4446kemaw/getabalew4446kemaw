@@ -8,7 +8,7 @@
 <h3 style ="color:blue">I am a passionate <em style ="color💙">full stack developer</em> from ethiopia</h3>
 
 
-<h5>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h5>
+<h4>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h4>
 <p style="background-color:red; font-style:italic;color:white">
 * 🌍  I'm based in Ethiopia<br><br>
 * ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)<br><br>
@@ -58,4 +58,4 @@ src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&styl
 
 </ul>
 <p>< <img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"width="1000" height="200"></p>
-<p> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏</p>
+<h2> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏</h2>
