@@ -1,8 +1,13 @@
 <h2> 👏👋👏 Welcome to my github  account 👋👋👏
   
   Hi 👋 My name is Getabalew</h2>
-<p > <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"></p>
-
+<p  id="man"> <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"></p>
+<style>
+  .man{
+    width=200px;
+    height=100px;
+  }
+</style>
 
 
 <h3 style ="color:blue">I am a passionate <em style ="color💙">full stack developer</em> from ethiopia</h3>
