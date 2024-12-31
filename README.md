@@ -30,7 +30,7 @@
  
   👍Ask me about **python,javascript,html and css**<br>
 
-  🌹 How to reach me **getabalewkemaw47@gmail.com**<br>
+  🌹 How to reach me **getabalewkemaw@gmail.com**<br>
 
 ⚡ Fun fact **I think I am 😁😁🤣🤣**</h4>
  <p><img src="https://media.tenor.com/8N32AB5HVz0AAAAj/when-we-connect-we-thrive-thrive.gif"></p>
