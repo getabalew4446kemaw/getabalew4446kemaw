@@ -69,6 +69,8 @@
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=getabalew-44&show_icons=true&locale=en" alt="getabalew-44" >
 </div>
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalew-44&" alt="getabalew-44" /></span>
+<p>< <img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"width="1000" height="200"></p>
+<h2> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏</h2>
   
 <!--<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
