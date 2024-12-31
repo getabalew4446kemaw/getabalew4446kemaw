@@ -1,38 +1,82 @@
-<h2> 👏👋👏 Welcome to my github  account 👋👋👏
-  
-  Hi 👋 My name is Getabalew</h2>
+
 <p  id="man"> <img src="https://media.tenor.com/oSxPUAeqwuoAAAAM/hello-there-hola.gif"width="1000" height="200"></p>
 
 
 
-<h3 style ="color:blue">I am a passionate <em style ="color💙">full stack developer</em> from ethiopia</h3>
 
 
-<h4>I am a self thought website developer from ethiopia , i enjoy solving problems in simple and digitalized way .i am constantly learning and collaborating with teams and expanding my skills</h4>
-<p style="background-color:red; font-style:italic;color:white">
-* 🌍  I'm based in Ethiopia<br><br>
-* ✉️  You can contact me at [getabalewkwmaw@gmail.com](mailto:getabalewkwmaw@gmail.com)<br><br>
-* 🧠  I'm learning Git<br><br>
-* 🤝  I'm open to collaborating on interesting projects<br><br>
-* ⚡  i am secretely spider man
-</p>
+<h1>
 
-<a href="https://www.github.com/getabalew4446kemaw" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/getabalew4446kemaw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
-### Skills
+<img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
+<h1 style="background-color:green;text-alignment:center"> ✨✨ Hi there 👏👏🤳🤳</h1><br>
 
+<h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm  Getabalew kemaw</em></h1><br>
 
+<h2 align="center"> <em>I am  a passionate Software Engineering student from Ethiopia</em></h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teku-4" alt="teku-4" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h4>
+  🌱 I’m currently studying<em><marked> Software Enginering</marked></em>**<br><br>
+  
+
+  ✨ I am intersted in solving problem in a digitalized way  and innovating new product <br>
+ 
+  👍Ask me about **python,javascript,html and css**<br>
+
+  🌹 How to reach me **getabalewkemaw47@gmail.com**<br>
+
+⚡ Fun fact **I think I am 😁😁🤣🤣**</h4>
+ <p><img src="https://media.tenor.com/8N32AB5HVz0AAAAj/when-we-connect-we-thrive-thrive.gif"></p>
+
+<h1 align="left"><strong>Connect with me:</strong></h1>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<a href="https://linkedin.com/in/getabalewkemaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekukasahun" height="30" width="40" /></a>
+<a href="https://instagram.com/getabalewkemaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="getabalewkemaw" height="30" width="40" /></a>
 </p>
+<p><svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="40" fill="blue">
+    <animate attributeName="r" from="40" to="60" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="fill" from="blue" to="cyan" dur="0.5s" begin="0s" repeatCount="indefinite" />
+  </circle>
+  <rect x="90" y="90" width="20" height="20" fill="green">
+    <animate attributeName="x" from="90" to="130" dur="1s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="y" from="90" to="130" dur="1s" begin="0s" repeatCount="indefinite" />
+  </rect>
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Tech</text>
+</svg>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-### Socials
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teku-4&layout=compact&theme=radical)
 
-<p align="left"> <a href="https://www.facebook.com/getabalew" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/getabalew4446kemaw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/getabalew" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
+
+
+<!--<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/teku-4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="getabalew-44" /></a><a href="https://ko-fi.com/getabalew-44"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="getabalew-44" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getabalew-44&show_icons=true&locale=en&layout=compact" alt="getabalew-44" /></p>-->
+<div>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=getabalew-44&show_icons=true&locale=en" alt="getabalew-44" >
+</div>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalew-44&" alt="getabalew-44" /></span>
+  
+<!--<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
+
+
+
+
+
+
 
 <b>My GitHub Stats</b>
 
