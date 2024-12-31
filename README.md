@@ -16,9 +16,9 @@
 
 <h2 align="center"> <em>I am  a passionate Software Engineering student from Ethiopia</em></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=getabalew4446kemaw&label=Profile%20views&color=0e75b6&style=flat" alt="getabalew4446kemaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teku-4" alt="teku-4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="getabalew4446kemaw" alt="getabalew4446kemaw" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -37,7 +37,7 @@
 
 <h1 align="left"><strong>Connect with me:</strong></h1>
 <p align="left">
-<a href="https://linkedin.com/in/getabalewkemaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekukasahun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/getabalewkemaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getabalewkemaw" height="30" width="40" /></a>
 <a href="https://instagram.com/getabalewkemaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="getabalewkemaw" height="30" width="40" /></a>
 </p>
 <p><svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
@@ -66,9 +66,9 @@
 <p><a href="https://www.buymeacoffee.com/teku-4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="getabalew-44" /></a><a href="https://ko-fi.com/getabalew-44"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="getabalew-44" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getabalew-44&show_icons=true&locale=en&layout=compact" alt="getabalew-44" /></p>-->
 <div>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=getabalew-44&show_icons=true&locale=en" alt="getabalew-44" >
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=getabalew4446kemaw&show_icons=true&locale=en" alt="getabalew4446kemaw" >
 </div>
-<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalew-44&" alt="getabalew-44" /></span>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalew4446kemaw&" alt="getabalew4446kemaw" /></span>
 <p>< <img src="https://media.tenor.com/p6wqMUk9fWQAAAAM/completed-mattel163.gif"width="1000" height="200"></p>
 <h2> 🙏🙏🙏🙏🙏🙏🙏🙏🙏Thanks  a lot  guys 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏</h2>
   
